@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  apartment_id: 1
+  tenant_id: 1
+  rent_amount: 1
+  start_time: 2022-12-21 10:51:26
+  end_time: 2022-12-21 10:51:26
+  active: false
+
+two:
+  apartment_id: 1
+  tenant_id: 1
+  rent_amount: 1
+  start_time: 2022-12-21 10:51:26
+  end_time: 2022-12-21 10:51:26
+  active: false
